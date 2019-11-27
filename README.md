@@ -5,6 +5,7 @@ When submitting a grant, we often want to know what successful grants look like.
 # Limitations
 
 * Only 5,000 records (of ~7,000) were downloaded, based upon restrictions in the NIH Reporter system
+    * Records were sorted alphabetically by last name of primary investigatory. This approach likely differentially excluded particular ethnic groups.
 * Only *funded* grants are included, limiting our ability to make causal inferences about what would improve *your* grant. It's like if we were trying to study a disease using only case series. The information is helpful, but incomplete.
 
 # Contributing
